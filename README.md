@@ -3,6 +3,7 @@ It is a Realtime Data Analysis Project using some tools are Apache Kafka,Apache 
 
 I used Jupyter notebook as Pyspark shell.You can copy and paste the below line in your bashrc file.
  >   export PYSPARK_DRIVER_PYTHON=jupyter
+ 
  >   export PYSPARK_DRIVER_PYTHON_OPTS='notebook'
     
 You can use this command to open Jupyter notebook as Pyspark Shell.
